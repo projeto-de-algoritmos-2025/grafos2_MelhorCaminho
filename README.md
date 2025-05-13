@@ -36,7 +36,35 @@ Imagem 3: Resultado
 
 
 ## Instalação 
+
+**Para acessar em produção**: https://menorota.vercel.app/
+
+
 **Linguagem**: HTML, CSS, JavaScrip
+
+### Clone do Repositório:
+
+```bash
+git clone https://github.com/projeto-de-algoritmos-2025/grafos2_MelhorCaminho.git
+```
+
+### Entrar na Pasta: 
+```bash
+cd /projeto
+```
+
+### Instalar competencias: 
+```bash
+npm install
+```
+
+### Rodar:
+
+```bash
+npm run dev
+```
+
+
 
 
 ## Uso 
@@ -45,7 +73,7 @@ O "Melhor Rota" ajuda transportadoras a definir a rota mais econômica entre div
 
 ## Apresentação 
 
-Botar Link aqui:
+Botar Link aqui: https://unbbr.sharepoint.com/:v:/s/Gravaes851/ESm5azoWKmtOhmB8di7ArCABlar7LiduCgjAZ2FNcfBy0w?e=Uo8hdH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 <font size="3"><p style="text-align: center">Autor: [Arthur D'Assumpção](https://github.com/ArtAssLou) e [Emerson Teles](https://github.com/ArtAssLou).</p></font>
 
