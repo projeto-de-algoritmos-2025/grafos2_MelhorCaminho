@@ -1,4 +1,4 @@
-# Parking lot
+# Grafos 2 - Melhor Rota
  
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
 
@@ -24,31 +24,23 @@
 O "Melhor Rota" é um sistema simples que usa o algoritmo de Kruskal para encontrar a melhor rota entre vários pontos. Você insere os pontos e as distâncias entre eles, e o sistema calcula a rota mais econômica que conecta todos os pontos, destacando os caminhos escolhidos. É uma forma prática de entender como o algoritmo de Kruskal funciona na otimização de rotas, sem complicações. Pode ser usado por uma transportadora antes de escolher uma rota de entrega.
 
 ## Screenshots
-<p align="center">
-  <img src="Documentos/screenshots/Print%201.png" alt="Print 1 do projeto" width="600"/>
-</p>
 
+Imagem 1: Tela inicial
+![alt text](image-1.png) 
+
+Imagem 2: Campos preenchidos
+![alt text](image-2.png)
+
+Imagem 3: Resultado
+![alt text](image-3.png)
 
 
 ## Instalação 
 **Linguagem**: HTML, CSS, JavaScrip
 
-## Pré-requisitos
-
-Antes de rodar o projeto, você precisará ter os seguintes programas instalados:
-
-- **Teste** Teste
-
-
-## Como compilar e executar o projeto
-### Passo 1: 
-```bash
-Botar aqui
-```
-
 
 ## Uso 
-Falar aqui
+O "Melhor Rota" ajuda transportadoras a definir a rota mais econômica entre diversos pontos de entrega. Basta inserir os locais de entrega e as distâncias entre eles, e o sistema usa o algoritmo de Kruskal para calcular a rota com o menor custo total, conectando todos os pontos sem repetir caminhos desnecessários. Isso é útil para reduzir custos com combustível, tempo de entrega e manutenção dos veículos, garantindo que todos os pontos sejam atendidos da forma mais eficiente possível
 
 
 ## Apresentação 
@@ -59,6 +51,7 @@ Botar Link aqui:
 
 
 ## Outros 
+Trabalho usando algoritmo de Kruskal
 
 
 
